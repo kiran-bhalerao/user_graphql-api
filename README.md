@@ -1,9 +1,9 @@
-# user_graphql-api
+# user_graphql-api😀
 a simple GraphQL API - consider as starter pack or boilerplate or refresher.
 
 
 > Required configuration 
-- create config folder to the root dir
+- create config folder to the root dir⚡️
 ```
 config
   |_ dev.env
@@ -13,7 +13,7 @@ config
   |    1) PRISMA_ENDPOINT=your-prod-endpoint
   |    2) TOP_SECRET=your-app-secret-key
 ```
-- npm install
+- npm install⚡️
 ```
 It install's required dependencies.
 ```
