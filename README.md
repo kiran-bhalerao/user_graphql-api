@@ -3,7 +3,7 @@ a simple GraphQL API - consider as starter pack or boilerplate or refresher.
 
 
 > Required configuration 
-- create config folder to the root dir⚡️
+- create **config** folder to the root dir⚡️
 ```
 config
   |_ dev.env
