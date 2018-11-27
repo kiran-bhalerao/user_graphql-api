@@ -1,4 +1,3 @@
-import "@babel/polyfill/noConflict";
 import { Prisma } from "prisma-binding";
 import {fragmentReplacements} from './resolvers/index'
 
