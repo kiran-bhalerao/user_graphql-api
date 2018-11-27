@@ -17,3 +17,7 @@ config
 ```
 It install's required dependencies.
 ```
+- npm run dev⚡️
+```
+It starts development server.
+```
